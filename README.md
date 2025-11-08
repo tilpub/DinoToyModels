@@ -21,8 +21,8 @@ The enclosure is designed to house and support all of the electronics and compon
 ## Preview Images & Video
 
 ### Prototype in Action
-![ProtoType Movie](https://github.com/user-attachments/assets/aa9dcadb-bd21-4f08-9a49-67a1f68fe52d)
 
+https://github.com/user-attachments/assets/131a0ba8-79ed-4a86-969f-67f6b7b7c91e
 
 ### Outside Shell with Speaker Slots
 ![Outside Shell with Speaker Slots](Shell.png)
